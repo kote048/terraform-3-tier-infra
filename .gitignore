@@ -34,3 +34,5 @@ override.tf.json
 terraform.rc
 #miscellaneous 
 main.txt
+extra-topics
+extra-topics/*
